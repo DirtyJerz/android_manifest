@@ -327,7 +327,7 @@
   <project path="hardware/ril" name="android_hardware_ril" remote="mw" revision="aosp-5.0" groups="pdk" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" groups="omap3" />
   <project path="hardware/ti/omap4-aah" name="platform/hardware/ti/omap4-aah" groups="omap4-aah" />
-  <project path="hardware/ti/omap4xxx" name="android_hardware_ti_omap4xxx" remote="mw" revision="aosp-5.0" groups="omap4" />
+  <project path="hardware/ti/omap4xxx" name="android_hardware_ti_omap4xxx" remote="dj" revision="lollipop" groups="omap4" />
   <project path="kernel/amazon/bowser-common" name="android_kernel_amazon_bowser-common" remote="mw" revision="aosp-5.0" />
   <project path="kernel/samsung/tuna" name="android_kernel_samsung_tuna" remote="dj" revision="lk-lollipop" />
   <project path="libcore" name="android_libcore" remote="mw" revision="aosp-5.0" groups="pdk" />
